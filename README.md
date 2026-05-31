@@ -47,3 +47,5 @@ Run the test file in each language folder:
 ## Stretch
 
 Once your tests pass, add a 4th function `hobby_count(people)` / `hobbyCount(people)` that returns a dictionary mapping each hobby to the number of people who have it.
+
+> Stuck? Have a code error? Use the ["4 Before Me"](https://docs.google.com/document/d/1nseOs5oabYBKNHfwJZNAR7GlU0zkZxNagsw63AD7XV0/edit) debugging checklist to help you solve it!
