@@ -14,7 +14,7 @@ people = [
 
 Write three functions that operate on this list. This exercise practices iterating over a collection, reading values out of dictionaries, and combining the two.
 
-## Functions to Implement
+## Requirements
 
 ### 1. `oldest_person(people)` / `oldestPerson(people)`
 Return the **name** (string) of the oldest person in the list.
